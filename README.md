@@ -10,3 +10,4 @@ grün
 blau
 lila
 toll
+toller
